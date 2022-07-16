@@ -13,7 +13,7 @@ from pathlib import Path
 # Folder Paths
 area_pics_path = Path('Pictures/area_pictures/')
 mission_pics_filePath = Path('Pictures/move_card/')
-tcall_folder_destination = Path('Transfer Calls/{}.html')
+tcall_folder_destination = Path('Transfer Calls Output/{}.html')
 
 # Settings
 train_station_disp = False
