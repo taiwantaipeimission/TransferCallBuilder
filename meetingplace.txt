@@ -1,0 +1,152 @@
+﻿Meeting Place,Area
+Quarantine Hotel,
+Yongan Market MRT station,YONGHE STL
+Xindian MRT station,ANKANG E
+Xindian MRT station,ankang
+Mission office,ENGLISH E
+Mission office,ENGLISH/OFFICE E
+Mission office,OFFICE/TAIPEI E
+Mission office,OFFICE/JINHUA E
+Mission office,ASSISTANTS
+Mission office,XINAN S
+Mission office,TRAVELING Assistants
+Taoyuan train station,BADE B E
+Taoyuan train station,BADE A E
+Taoyuan train station,BADE A S
+Taoyuan train station,BADE S
+Xinbeitou MRT station,BEITOU E
+Xindian District Office MRT station,BITAN S
+Xindian District Office MRT station,BITAN E
+Huilong MRT station,DANFENG B E
+Huilong MRT station,DANFENG ZL
+Tamsui MRT station,DANSHUI ZL
+Tamsui MRT station,DANSHUI B E
+Tamsui MRT station,DANSHUI E
+Tamsui MRT station,DANSHUI S
+Tamsui MRT station,DANSHUI A S
+Fenglin train station,FENGLIN/HUALIAN 2
+Fenglin train station,FENGLIN E
+Taoyuan train station,GUISHAN E
+Taoyuan train station,GUISHAN S
+Taoyuan train station,GUISHAN STL
+Hualian train station,HUALIAN 2 E
+Hualian train station,HUALIAN 3 S
+Hualian train station,HUALIAN 2 S
+Hualian train station,HUALIAN 2S
+Hualian train station,HUALIAN 1 S
+Hualian train station,HUALIAN S
+Hualian train station,HUALIAN 1 STL
+Hualian train station,HUALIAN 1 E
+Hualian train station,HUALIAN E
+Hualian train station,HUALIAN  E
+Hualian train station,HUALIAN 3 E
+Jilong train station,JILONG ZL
+Jilong train station,JILONG B ZL
+Jilong train station,JILONG A E
+Jilong train station,JILONG E
+Dongmen Station,JINHUA S
+Dongmen Station,JINHUA E
+Dongmen Station,XINAN/ASSISTANTS
+Zhongxiao Xinsheng station,JINHUA ZL
+Linkou MRT station,TAILIN E
+Linkou MRT station,TAILIN S
+Zhongli Train Station,LONGTAN E
+Luodong train station,LUODONG E
+Luodong train station,LUODONG E B
+Sanmin Senior High School MRT station,LUZHOU B E
+Sanmin Senior High School MRT station,LUZHOU E
+Zhunan train station,MIAOLI A E
+Zhunan train station,MIAOLI E
+Zhunan train station,MIAOLI B E
+Zhunan train station,MIAOLI S
+Wanfang Hospital MRT station,MUZHA A E
+Wanfang Hospital MRT station,MUZHA E
+Wanfang Hospital MRT station,MUZHA S
+Xihu MRT station,NEIHU E
+Cailiao MRT station,SANCHONG S
+Cailiao MRT station,SANCHONG E
+Yongning MRT station,SANXIA B E
+Yongning MRT station,SANXIA A E
+Yongning MRT station,SANXIA E
+Zhishan MRT station,SHILIN S
+Xinzhuang MRT station,SIYUAN E
+Xinzhuang MRT station,SIYUAN ZL
+Xinzhuang MRT station,SIYUAN S
+Xinzhuang MRT station,XINZHUANG S
+Nanjing Sanmin MRT station,SONGSHAN E
+Nanjing Sanmin MRT station,SONSHAN E
+Nanjing Sanmin MRT station,SONGSHAN S
+Taidong train station,TAIDONG 2 S
+Taidong train station,TAIDONG 2 E
+Taidong train station,TAIDONG E
+Taidong train station,TAIDONG 1 S
+Taidong train station,TAIDONG 1 ZL
+Taidong train station,TAIDONG 2 ZL
+Taidong train station,TAIDONG 2E
+Taidong train station,LUYE E
+Taidong train station,TAIDONG 3-Luye
+Taidong train station,TAIDONG 3 E
+Taidong train station,TAIDONG 3 S
+Taidong train station,TAIDONG 3 B-Luye
+Taoyuan train station,TAOYUAN 1 STL
+Taoyuan train station,TAOYUAN 1 E
+Taoyuan train station,TAOYUAN 1 A E
+Taoyuan train station,TAOYUAN 2 S
+Taoyuan train station,TAOYUAN 2 E
+Taoyuan train station,TAOYUAN 3 S
+Taoyuan train station,TAOYUAN 3 ZL
+Taoyuan train station,TAOYUAN E
+Taoyuan train station,TAO E
+Taoyuan train station,LUZHU ZL
+Taoyuan train station,TAOYUAN 4 E
+Zhishan MRT station,TIANMU A E
+Zhishan MRT station,TIANMU E
+Zhunan train station,TOUFEN S
+Haishan MRT station,TUCHENG B S
+Haishan MRT station,TUCHENG STL
+Haishan MRT station,TUCHENG S
+Haishan MRT station,TUCHENG E
+Haishan MRT station,TUCHENG ZL
+Zhongshan MRT station,WANDA E
+Zhongshan MRT station,WANDA S
+Zhongshan MRT station,WANDA ZL
+Xinzhu train station,XIANGSHAN B E
+Xinzhu train station,XIANGSHAN A E
+Banqiao MRT station,XINPU E
+Banqiao MRT station,XINPU E ZL
+Banqiao MRT station,XINBAN E
+Banqiao MRT station,XINBAN S
+Xiaobitan MRT station,JINGMEI ZL
+Xiaobitan MRT station,JINGMEI E
+Xiaobitan MRT station,XINDIAN E
+Xiaobitan MRT station,XINDIAN 2 E
+Xiaobitan MRT station,XINDIAN ZL
+Xinpu MRT station,XINPU S
+Xinpu MRT station,XINPU E*
+Xinzhu train station,XINZHU 3 S
+Xinzhu train station,XINZHU 1 E
+Xinzhu train station,XINZHU 1 STL
+Xinzhu train station,XINZHU 1 S
+Xinzhu train station,XINZHU 3 ZL
+Xizhi train station,XIZHI B E ZL
+Xizhi train station,XIZHI ZL
+Xizhi train station,XIZHI B E
+Xizhi train station,XIZHI A E
+Yilan train station,YILAN S
+Yongan Market MRT station,YONGHE S
+Yuli train station,YULI E
+Jingan MRT station,ZHONGHE 2 E
+Jingan MRT station,ZHONGHE 1 E
+Jingan MRT station,ZHONGHE 1 S
+Zhongli train station,ZHONGLI 1 E
+Zhongli train station,ZHONGLI 2 S
+Zhongli train station,ZHONGLI 1 S
+Zhongli Train Station,ZHONGLI 2 E
+Zhongli Train Station,ZHONGLI E
+Zhongli Train Station,ZHONGLI  E
+Zhubei train station,ZHUBEI 3 E
+Zhubei train station,ZHUBEI 1 E
+Zhubei train station,ZHUBEI 1 S
+Zhubei train station,ZHUBEI 2 S
+Zhudong train station,ZHUDONG E
+Zhunan train station,ZHUNAN E
