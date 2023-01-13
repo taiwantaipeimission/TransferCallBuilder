@@ -32,7 +32,7 @@ position_translator = {
 	"(AP)":"Assistant to the President",
 	"(SC)":"Senior Companion",
 	"(JC)":"Junior Companion",
-	"(STLT)": "Sister Training Leader Trainer",
+	"(STLT)": "Sister Training Leader/Trainer",
 	"":""
 }
 #FUNCTIONS
